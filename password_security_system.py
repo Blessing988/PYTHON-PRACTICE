@@ -8,7 +8,7 @@ class Password(object):
     Class Atributes
     ---------------
     stored_values : dict
-        a dictionary which contains the username as the key and password as the key
+        a dictionary which contains the username as the key and password as the value
 
     Instance Attributes 
     -------------------
